@@ -13,6 +13,13 @@ Clone the repository using Git:
 git clone https://github.com/BlackViking07/Wallpaper-Exhibition.git
 ```
 
+**Alternatively, download the ZIP:**
+
+1. Click the green "Code" button on this repository.
+2. Select "Download ZIP".
+3. Extract it to your preferred wallpapers directory.
+
+
 ## 🖼️ Usage
 
 **On Windows:**
@@ -20,7 +27,7 @@ git clone https://github.com/BlackViking07/Wallpaper-Exhibition.git
 - Right-click on your desktop and choose Personalize.
 - Go to Background > Browse, then navigate to the cloned folder.
 - Select your favorite wallpaper!
-- 
+
 **On Linux (GNOME/KDE/XFCE):**
 
 - Open your Settings > Background.
